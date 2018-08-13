@@ -1,0 +1,7 @@
+{
+  "appId": "N5HzTm2AikuVlrTLHwh5NnPcKDHUgcFXQJC7enzX",
+  "masterKey": "bsEwHN6VKNvOkNPcaBm7Ianxz4A2AVm0y3WBBti8",
+  "appName": "TopConvenios",
+  "cloud": "./cloud/main",
+  "databaseURI": "mongodb://127.0.0.1:27017/parse"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "topconvenios",
+  "description": "parse-server for TopConvenios",
+  "scripts": {
+    "start": "parse-server config.json"
+  },
+  "dependencies": {
+    "node": "^10.8.0",
+    "parse-server": "^2.0.0"
+  }
+}
