@@ -1,0 +1,2 @@
+{"error":{"code":255,"message":"Class Plan is not empty, contains 10 objects, cannot drop schema."},"level":"error","message":"Error generating response. ParseError {\n  code: 255,\n  message:\n   'Class Plan is not empty, contains 10 objects, cannot drop schema.' }","timestamp":"2018-08-13T22:27:04.630Z"}
+{"code":255,"message":"Class Plan is not empty, contains 10 objects, cannot drop schema.","level":"error","timestamp":"2018-08-13T22:27:04.634Z"}
